@@ -2,7 +2,7 @@ import requests
 
 
 api_key = RGAPI-fa205826-b426-417b-9cb6-2254f44355b5
-api_url = 'https://api.example.com/data'
+api_url = 'https://github.com/samborwitek/lol.git'
 
 headers = {
     'Authorization': f'Bearer {api_key}',
